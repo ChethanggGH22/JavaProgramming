@@ -1,5 +1,6 @@
 package Arrays;
 
+//target is 4 and find the previous of 4 is even or odd
 public class CheckPreviousNumIsEven 
 {
 	public static void main(String[] args) 
