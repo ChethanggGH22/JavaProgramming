@@ -1,6 +1,13 @@
 package Arrays;
 
 //target is 4 and find the previous of 4 is even or odd
+/**
+ * 
+ * @author cgollarahalli
+ * @version 23.2.2
+ * @since 02 feb 2023
+ * @category BUG fix
+ */
 public class CheckPreviousNumIsEven 
 {
 	public static void main(String[] args) 
