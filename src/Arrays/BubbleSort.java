@@ -6,7 +6,7 @@ public class BubbleSort
 	public static void main(String[] args)
 	{
 		int[] arr={32,43,45,2,4,6,7};
-		for(int j=1; j<arr.length; j++) // Loop should be repeated length-1 number of times
+		for(int j=1; j<arr.length; j++) // Loop should be repeated length-1 number of times /CGG
 		{
 			for(int i=1; i<arr.length; i++) //This loop is for sorting
 			{
